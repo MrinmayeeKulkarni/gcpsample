@@ -9,3 +9,4 @@ Once the deployment and intergration was done, then I updated the Flask routes t
 
 Here is the video of the application running,
 
+https://youtu.be/i1idnxFaggY
