@@ -1,6 +1,4 @@
-# Google Cloud Continuous Delivery
-
-Google Cloud Platform Sample
+# Continuous Delivery of Flask Application with Google Cloud Platform
 
 Creating a Google Continuous Delivery application in the Google Cloud Engine
 
@@ -11,3 +9,4 @@ Once the deployment and intergration was done, then I updated the Flask routes t
 
 Here is the video of the application running,
 
+https://youtu.be/i1idnxFaggY
